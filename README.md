@@ -1,1 +1,1 @@
-# python-for-ai
+# Python for AI Course by Howsam
